@@ -1,0 +1,29 @@
+body{
+  display: grid;
+  place-items: center;
+  gap: 20px;
+  height: 97vh;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.containerGeneral{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: 2px solid rgb(255, 204, 63);
+  padding: 50px;
+}
+button{
+  width: 400px;
+  border-radius: 15px;
+  background-color:rgb(255, 204, 63) ;
+  font-weight: 510;
+  font-size: 15px;
+  padding: 20px;
+  color: rgb(0, 0, 0);
+}
+
+p{
+  font-size: 30px;
+}
